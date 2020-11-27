@@ -1,0 +1,35 @@
+{
+  "name": "lewdorder",
+  "version": "0.0.9",
+  "description": "Fate/Lewd Order, small package to get a random fgo images (yande.re return)",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "eslint --ignore-path .gitignore ."
+  },
+  "typings": "typings/index.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sinkaroid/lewdorder.git"
+  },
+  "keywords": [
+    "lewdorder",
+    "fgo",
+    "fate/grand order",
+    "lewd",
+    "yande.re",
+    "hentai"
+  ],
+  "engines": {
+    "node": ">=8.x"
+  },
+  "author": "sinkaroid",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sinkaroid/lewdorder/issues"
+  },
+  "homepage": "https://github.com/sinkaroid/lewdorder#readme",
+  "dependencies": {},
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}
